@@ -16,6 +16,16 @@
         "email": "marishasahay@gmail.com"
       },
       "category": "utilities"
+    },
+    {
+      "name": "us-bank-holidays",
+      "description": "Provides US bank (Federal Reserve) holidays for a given year.",
+      "source": "./plugins/us-bank-holidays",
+      "author": {
+        "name": "marisha sahay",
+        "email": "marishasahay@gmail.com"
+      },
+      "category": "utilities"
     }
   ]
 }

@@ -73,6 +73,7 @@ After installing, run `/hello-world` in Claude Code to execute the command.
 | Plugin | Version | Description | Source |
 | :--- | :--- | :--- | :--- |
 | **`hello-world`** | `1.0.0` | Simple starter plugin demonstrating custom slash commands | [`./plugins/hello-world`](./plugins/hello-world) |
+| **`us-bank-holidays`** | `1.0.0` | Provides US bank (Federal Reserve) holidays for a given year | [`./plugins/us-bank-holidays`](./plugins/us-bank-holidays) |
 
 ---
 
