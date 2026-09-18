@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-claude-marketplace",
+  "description": "Claude Code plugin marketplace curated by marisha",
+  "owner": {
+    "name": "marisha",
+    "email": "marishasahay@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "hello-world",
+      "description": "A starter hello-world example plugin for Claude Code demonstrating custom slash commands",
+      "source": "./plugins/hello-world",
+      "author": {
+        "name": "marisha",
+        "email": "marishasahay@gmail.com"
+      },
+      "category": "utilities"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "hello-world",
+  "description": "A simple hello-world example plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "marisha",
+    "email": "marishasahay@gmail.com"
+  }
+}
