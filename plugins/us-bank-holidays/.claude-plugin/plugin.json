@@ -1,0 +1,9 @@
+{
+  "name": "us-bank-holidays",
+  "description": "Provides US bank (Federal Reserve) holidays for a given year.",
+  "version": "1.0.0",
+  "author": {
+    "name": "marisha sahay",
+    "email": "marishasahay@gmail.com"
+  }
+}
