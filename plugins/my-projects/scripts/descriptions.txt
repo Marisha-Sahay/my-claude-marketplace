@@ -1,0 +1,15 @@
+awesome-java-agent-skills|Curated AI agent skills, Checkstyle rulesets and Maven quality gates for Java 21
+bitcoin|Fork of Bitcoin Core (C++/CMake); PR review and test work
+java-agentic-coding-plan|Roadmap and strategy notes for Java agentic-coding skills (markdown only)
+java-clean-code-agent-skills|Java 21 AI engineering standards: agent skills, Checkstyle, JaCoCo gates
+job-search-agent|Python job-search agent: scrapers, data store and web UI (main.py)
+langchain4j|Upstream clone of LangChain4j, the Java LLM library (Maven multi-module)
+langchain4j-playground|Spring Boot sandbox for verifying langchain4j-spring PRs
+langchain4j-spring|Fork of langchain4j-spring: Spring Boot starters for LangChain4j integrations
+local-ai-cost-calc|Client-side calculator for local-LLM hardware cost and memory sizing
+Marisha-Sahay.github.io|Personal website (GitHub Pages, static HTML/CSS/JS)
+multi-agent-pacman|Dependency-free browser Pac-Man with heuristic Pac-Man and ghost agents
+multirail-fx-agent|React/Vite + API payment router choosing SWIFT, Visa Direct or Wise rails
+my-claude-marketplace|Personal Claude Code plugin marketplace (this plugin lives here)
+social-post|LinkedIn post drafts, series ideas and image prompts (markdown)
+system-design-primer|Fork of system-design-primer with a Next.js reader app and EPUB build

@@ -26,6 +26,16 @@
         "email": "marishasahay@gmail.com"
       },
       "category": "utilities"
+    },
+    {
+      "name": "my-projects",
+      "description": "Find, reference and work on any of my local projects from any Claude Code session.",
+      "source": "./plugins/my-projects",
+      "author": {
+        "name": "marisha sahay",
+        "email": "marishasahay@gmail.com"
+      },
+      "category": "productivity"
     }
   ]
 }
